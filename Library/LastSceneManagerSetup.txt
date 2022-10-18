@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/poker2.0 unity.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

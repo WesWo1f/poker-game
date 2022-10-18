@@ -1,0 +1,36 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      86
+    ],
+    "SourceCsetId": 97,
+    "DestinationCsetId": 86,
+    "FileConflicts": [
+      {
+        "Path": "/Packages/packages-lock.json",
+        "ItemId": 130,
+        "ParentItemId": 125,
+        "BaseRevId": 217,
+        "SourceRevId": 1602,
+        "DestinationRevId": 217
+      },
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 141,
+        "ParentItemId": 127,
+        "BaseRevId": 390,
+        "SourceRevId": 1604,
+        "DestinationRevId": 390
+      },
+      {
+        "Path": "/ProjectSettings/ProjectVersion.txt",
+        "ItemId": 142,
+        "ParentItemId": 127,
+        "BaseRevId": 210,
+        "SourceRevId": 1605,
+        "DestinationRevId": 210
+      }
+    ]
+  }
+]

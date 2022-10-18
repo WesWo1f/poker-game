@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200f6786c59863a46a361c7dd3a83d1e, type: 3}
+  m_Name: CardData 18
+  m_EditorClassIdentifier: 
+  cardObject: {fileID: 2393599637194075951, guid: d2051d01071dc0f4db780b4065a96c19, type: 3}
+  cardName: five
+  cardIdNumber: 18
+  cardSuit: 2
+  cardSuitName: Clubs
+  straightNumber: 5
